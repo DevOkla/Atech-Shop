@@ -71,6 +71,42 @@ const products = [
     rating: 4,
     numReviews: 12,
   },
+  {
+    name: 'Drone XRW Pro',
+    image: '/images/drone.jpg',
+    description:
+      'Fly up in the sky with a 105MP camera 4K view 360 degrees. ',
+    brand: 'Ferrari',
+    category: 'Electronics',
+    price: 298.99,
+    countInStock: 0,
+    rating: 4,
+    numReviews: 12,
+  },
+  {
+    name: 'Nvidia GeForce 2080Ti',
+    image: '/images/rtx.jpg',
+    description:
+      'Experience the strength of GPU in all games, Play with Noobs, Feel like a Pro! ',
+    brand: 'Nvidia',
+    category: 'Electronics',
+    price: 359.99,
+    countInStock: 0,
+    rating: 5,
+    numReviews: 15,
+  },
+  {
+    name: ' Playstation 5 White',
+    image: '/images/playstation5.jpg',
+    description:
+      'Experience the quality of PS5 in all games, Play with Noobs, Feel like a Pro! ',
+    brand: 'Sony',
+    category: 'Electronics',
+    price: 359.99,
+    countInStock: 0,
+    rating: 5,
+    numReviews: 15,
+  },
 ];
 
 export default products;
